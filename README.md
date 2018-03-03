@@ -1,5 +1,5 @@
 # Dungeon-Dice-Monsters
-
+EDIT: THIS IS THE BUGGY UNFINISHED VERSION SORRY
 Brandon Liang's APCS A final project for Per. 1 Reid 2016-2017.
 This is a spinoff of the original Dungeon Dice Monsters game in Yugioh Season 0 (1998) from episodes 25-27.
 
